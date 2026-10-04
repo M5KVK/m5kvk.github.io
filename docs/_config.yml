@@ -1,0 +1,20 @@
+title: M5KVK
+description: >-
+  M5KVK ham-related pages.
+theme: minima
+minima:
+  skin: classic
+show_excerpts: false
+
+# Simple manual nav — minima will list any page below that has a title
+# and isn't excluded, in the order they're listed here.
+header_pages:
+  - about.md
+  - disclaimers.md
+  - changelog.md
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
