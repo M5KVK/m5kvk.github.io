@@ -4,7 +4,7 @@ title: My Remote Shack
 permalink: /remote_shack
 ---
 
-!["Picture of remote shack cabinet"](/assets/img_2841.png "External view of the remote shack")
+!["Picture of remote shack cabinet"](/assets/IMG_2841.png "External view of the remote shack")
 
 ## Overview
 
