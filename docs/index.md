@@ -8,9 +8,9 @@ Welcome to my github pages. These pages will eventually replace those currently 
 
 ## Station Overview
 
-- **Main (Remote) Station:** Flexradio 6400 and End Fed Random Wire antenna tuned by SGC SG-230 Automatic ATU located at the base of the mast.
-- **Home Station:** Icom 7100, 4m J-Pole, and 2m/70cm co-linear.
-- **Mobile Station:** Autocruise Rythm campervan - Yaesu FTM-400D and Comet 2m/70cm antenna.
+- **Main (Remote) Station:** Flexradio 6400 with End Fed Random Wire antenna tuned by SGC SG-230 Automatic ATU located at the base of the mast.
+- **Home Station:** Icom 7100 with 4m J-Pole, and 2m/70cm co-linear.
+- **Mobile Station:** Autocruise Rhythm campervan - Yaesu FTM-400D with Comet 2m/70cm antenna.
 
 ## Digital Voice & AllStar
 
