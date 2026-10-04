@@ -3,7 +3,7 @@ layout: home
 title: M5KVK
 ---
 
-![](/assets/M5KVK_shack.png)
+!["Me"](/assets/m5kvk_shack.png)
 
 **I'm Gareth Howell, callsign M5KVK.**
 Welcome to my github pages. This is the head page for a series of pages of information relating to my hobby as an amateur radio operator.
