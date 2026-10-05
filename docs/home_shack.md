@@ -5,7 +5,7 @@ permalink: /home_shack
 home_url: https://m5kvk.org
 ---
 
- ![An old picture of my shack](/assets/radio-1.png "The old shack when I used an Icom 256 Pro II")
+ ![An old picture of my shack](/assets/Radio-1.png "The old shack when I used an Icom 256 Pro II")
  
 I now have a Remote Shack that has largely replaced the Home Shack. The following describes the Home Shack as it was.
 
