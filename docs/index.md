@@ -1,6 +1,7 @@
 ---
 layout: home
 title: M5KVK
+home_url: https://m5kvk.org
 ---
 
 !["Me"](/assets/m5kvk_shack.png)
@@ -51,9 +52,10 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 
 ## Digital Voice & AllStar
 
-- [Node 678500](https://m5kvk.github.io/678500) - 678500 is a Hub node
-- [Node 678502](https://m5kvk.github.io/678502) - 678502 is an access-controlled link to the GB3OV repeater located near St Neots, Cambridgeshire, UK and serving an area bounded by Wellingborough to the West, Peterborough to the North, Cambridge to the East and Sandy to the South, with extended access North East into Fenland.
+- [Node 678500](https://m5kvk.org/678500) - 678500 is a Hub node
+- [Node 678502](https://m5kvk.org/678502) - 678502 is an access-controlled link to the GB3OV repeater located near St Neots, Cambridgeshire, UK and serving an area bounded by Wellingborough to the West, Peterborough to the North, Cambridge to the East and Sandy to the South, with extended access North East into Fenland.
+- [Node 678503](https://m5kvk.org/678503) - 678503 is a "private" node that sits on my bench with a speaker-mic to allow me to access AllStarLink without a radio.
 
 ## Packet & Messaging
 
-- [GB7EAT](https://m5kvk.github.io/gb7eat) - Packet BBS located QTHR and accessible on 144.800MHz using AX.25 OR FX.25.
+- [GB7EAT](https://m5kvk.org/gb7eat) - Packet BBS located QTHR and accessible on 144.800MHz using AX.25 OR FX.25.
