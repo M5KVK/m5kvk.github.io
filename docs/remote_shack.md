@@ -2,6 +2,7 @@
 layout: page
 title: My Remote Shack
 permalink: /remote_shack
+home_url: https://m5kvk.org
 ---
 
 !["Picture of remote shack cabinet"](/assets/IMG_2841.png "External view of the remote shack")

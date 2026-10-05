@@ -2,6 +2,7 @@
 layout: page
 title: Disclaimers
 permalink: /disclaimers.html
+home_url: https://m5kvk.org
 ---
 
 ## For information only
