@@ -52,7 +52,7 @@ Operating autonomously, Home Assistant will
 
 - Monitor and control the environment in the inner cabinet using the heater and cooling fans
 - Monitor the state of the local 240V supply and Internet access – and send me a Pushover alert if the UPS kicks in or primary Internet connection goes down – using the 4G modem on the Teltonika RUT-951 router if necessary
-- Keep an eye on local windspeed and lightning and take action to shut the radio side down if necessary – as well as sending me an alert via Pushover.
+- Keep an eye on local wind speed and lightning and take action to shut the radio side down if necessary – as well as sending me an alert via Pushover.
 - Poll external services to main a local record of appropriate propagation data, and present them via the UI.
 - Using the Lovelace dashboard I designed, I can:
 

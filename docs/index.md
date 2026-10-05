@@ -37,12 +37,12 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 - ITU Zone: 27
 - CQ Zone: 14
 
-## My club memberships are:
+## Club memberships
 
 - [RSGB](https://www.rsgb.org.uk)
 - [Huntingdonshire Amateur Radio Society](https://www.hunts-hams.co.uk)
 
-## I am also a member of:
+**I am also a member of:**
 
 - [Digital Modes Club](http://www.digital-modes-club.org/) (DMC) #1657
 - [European Phase Shift Keying Club](http://eu.srars.org/) (EPC) #4903
@@ -51,4 +51,3 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 - [30 Meter Digital Group](http://www.30meterdigital.org/) (30MDG) #1352
 
  ![eQSL certificate](/assets/M5KVK_AG.png)
- 
