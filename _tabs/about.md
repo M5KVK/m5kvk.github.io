@@ -8,7 +8,7 @@ title: About Me
 _A very old picture of my shack as it was when I lived in Letchworth_
 
 **I'm Gareth Howell, callsign M5KVK.**
-Welcome to my github pages. This site contains my [blog](/) and a series of pages of information relating to my hobbies as an amateur radio operator and as an amateur geneologist.
+Welcome to my github pages. This site contains my [blog](/) and a series of pages of information relating to my hobbies as an amateur radio operator.
 
 ## Amateur Radio
 My main area of interest is the use of Digital Modes on HF. For this I use FLDigi, DM780, WSJT-X etc. I'm also using a variety of methods to improve my CW back to a state where I am prepared to venture back on the air.

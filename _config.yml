@@ -24,7 +24,7 @@ timezone: Europe/London
 
 title: M5KVK - Gareth Howell # the main title
 
-tagline: "<div>Welcome to my blog.</div><div>A collection of articles and thoughts on Amateur Radio and Family History</div>" # it will display as the subtitle
+tagline: "<div>Welcome to my blog.</div><div>A collection of articles and thoughts on Amateur Radio</div>" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   The thoughts and articles of Gareth Howell, an Amateur Radio operator.

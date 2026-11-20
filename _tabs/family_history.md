@@ -6,4 +6,4 @@ icon: fas fa-sitemap
 order: 7
 ---
 
-holding test
+The records relating to my researches can be found [here](https://garethhowell.com/genealogy)
