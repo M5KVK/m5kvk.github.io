@@ -8,8 +8,9 @@ title: About Me
 _A very old picture of my shack as it was when I lived in Letchworth_
 
 **I'm Gareth Howell, callsign M5KVK.**
-Welcome to my github pages. This is the head page for a series of pages of information relating to my hobby as an amateur radio operator.
+Welcome to my github pages. This site contains my [blog](/) and a series of pages of information relating to my hobbies as an amateur radio operator and as an amateur geneologist.
 
+## Amateur Radio
 My main area of interest is the use of Digital Modes on HF. For this I use FLDigi, DM780, WSJT-X etc. I'm also using a variety of methods to improve my CW back to a state where I am prepared to venture back on the air.
 
 I do a bit of mobile operation as well. I also do some construction. Some years ago I built an Elecraft K2. However, my main rig is now a Flex 6400.
@@ -53,3 +54,6 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 - [30 Meter Digital Group](http://www.30meterdigital.org/) (30MDG) #1352
 
  ![eQSL certificate](/assets/img/M5KVK_AG.png)
+
+## Family History
+See [family history](/family_history)

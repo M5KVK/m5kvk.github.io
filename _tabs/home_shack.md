@@ -2,6 +2,7 @@
 layout: page
 title: My Home Shack
 permalink: /home_shack
+icon: fas fa-broadcast-tower
 home_url: https://m5kvk.org
 order: 6
 ---

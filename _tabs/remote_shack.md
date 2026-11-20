@@ -2,6 +2,7 @@
 layout: page
 title: My Remote Shack
 permalink: /remote_shack
+icon: fas fa-broadcast-tower
 home_url: https://m5kvk.org
 order: 5
 ---
