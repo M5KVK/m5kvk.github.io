@@ -3,11 +3,13 @@ layout: page
 title: My Home Shack
 permalink: /home_shack
 home_url: https://m5kvk.org
+order: 6
 ---
 
- ![An old picture of my shack](/assets/Radio-1.png "The old shack when I used an Icom 256 Pro II")
+ ![An old picture of my shack](/assets/img/Radio-1.png) 
+ _The old shack when I used an Icom 256 Pro II_
 
-I now have a Remote Shack that has largely replaced the Home Shack. The following describes the Home Shack as it was.
+I now have a [Remote Shack](/remote_shack) that has largely replaced the Home Shack. The following describes the Home Shack as it was.
 
 ## HF
 

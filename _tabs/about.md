@@ -1,10 +1,11 @@
 ---
-layout: home
-title: M5KVK
-home_url: https://m5kvk.org
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+title: About Me
 ---
-
-!["Me"](/assets/m5kvk_shack.png)
+!["Me"](/assets/img/m5kvk_shack.png)
+_A very old picture of my shack as it was when I lived in Letchworth_
 
 **I'm Gareth Howell, callsign M5KVK.**
 Welcome to my github pages. This is the head page for a series of pages of information relating to my hobby as an amateur radio operator.
@@ -15,8 +16,9 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 
 ## Station Overview
 
-- **Main (Remote) Station:** Flexradio 6400 with End Fed Random Wire antenna tuned by SGC SG-230 Automatic ATU located at the base of the mast. For more info see [Remote Shack](/remote_shack.md)
-- **Home Station:** Icom 7100 with 4m J-Pole, and 2m/70cm co-linear. See here for more info on the *old* [Home Shack](/home_shack.md)
+- **Main (Remote) Station:** Flexradio 6400 with End Fed Random Wire antenna tuned by SGC SG-230 Automatic ATU located at the base of the mast. For more info see [Remote Shack](/remote_shack)
+- **Home Station:** Icom 7100 with 4m J-Pole, and 2m/70cm co-linear. 
+  See here for more info on the *old* [Home Shack](/home_shack)
 - **Mobile Station:** Autocruise Rhythm campervan - Yaesu FTM-400D with Comet 2m/70cm antenna.
 
 ## Digital Voice & AllStar
@@ -50,4 +52,4 @@ I do a bit of mobile operation as well. I also do some construction. Some years 
 - [Worked all Britain Awards](http://www.worked-all-britain.co.uk/) (WAB) #9012 (as M5KVK)
 - [30 Meter Digital Group](http://www.30meterdigital.org/) (30MDG) #1352
 
- ![eQSL certificate](/assets/M5KVK_AG.png)
+ ![eQSL certificate](/assets/img/M5KVK_AG.png)
