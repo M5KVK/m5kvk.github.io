@@ -8,8 +8,6 @@ tags:
   - "Migration"
 ---
 
-## Migrating from WordPress and a new domain
-
 Welcome to my new blog. 
 
 My main blog used to be hosted on Wordpress as [https://garethhowell.com](https://garethhowell.com).
