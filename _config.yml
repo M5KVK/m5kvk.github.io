@@ -19,6 +19,9 @@ lang: en
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Europe/London
 
+plugins:
+  - jekyll-redirect-from
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
